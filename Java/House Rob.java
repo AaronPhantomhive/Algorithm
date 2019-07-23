@@ -1,7 +1,5 @@
 /*
- * Xiaofan Di.
- * CSE464: Maximize House Robbing
- * April 26, 2019
+ * Maximize House Robbing
  */
  
 public class HouseRob {
